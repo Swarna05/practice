@@ -4,17 +4,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Guidelines
 
-### Folders and file names should be lowercase
+### - Folders and file names should be lowercase
 
-### Try to make reuseable components whenever possible
+### - Try to make reuseable components whenever possible
 
-### Keep CSS files in separate folder
+### - Keep CSS files in separate folder
 
-### Create your own branch to start working
+### - Create your own branch to start working
 
-### Create a new Pull Request to contribute
+### - Create a new Pull Request to contribute
 
-### PR will be merged after review
+### - PR will be merged after review
+
+---
 
 ## Commands
 
