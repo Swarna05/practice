@@ -2,7 +2,7 @@ import React from 'react';
 import { Container } from 'react-bootstrap';
 import Navbar from 'react-bootstrap/Navbar';
 
-export default function header() {
+export default function Header() {
   return (
     <>
   

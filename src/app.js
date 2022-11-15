@@ -1,8 +1,12 @@
 import "./css/test.css";
 import React from "react";
 
+// import * as React from 'react';
+import Button from '@mui/material/Button';
+
 import Header from "./components/header";
 import Body from "./components/body";
+import Table from"./components/table"
 
 import Container from "react-bootstrap/Container";
 
@@ -21,6 +25,9 @@ function App() {
             <Header />
 
             <Body />
+            <Table/>
+      
+   
           </Col>
         </Row>
       </Container>
